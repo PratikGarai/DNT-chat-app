@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DNT-chat-app/static/css/main.dc2e240f.chunk.css",
+    "main.js": "/DNT-chat-app/static/js/main.3b7e3336.chunk.js",
+    "main.js.map": "/DNT-chat-app/static/js/main.3b7e3336.chunk.js.map",
+    "runtime-main.js": "/DNT-chat-app/static/js/runtime-main.79ac184c.js",
+    "runtime-main.js.map": "/DNT-chat-app/static/js/runtime-main.79ac184c.js.map",
+    "static/js/2.2094043e.chunk.js": "/DNT-chat-app/static/js/2.2094043e.chunk.js",
+    "static/js/2.2094043e.chunk.js.map": "/DNT-chat-app/static/js/2.2094043e.chunk.js.map",
+    "static/js/3.830a26fb.chunk.js": "/DNT-chat-app/static/js/3.830a26fb.chunk.js",
+    "static/js/3.830a26fb.chunk.js.map": "/DNT-chat-app/static/js/3.830a26fb.chunk.js.map",
+    "index.html": "/DNT-chat-app/index.html",
+    "static/css/main.dc2e240f.chunk.css.map": "/DNT-chat-app/static/css/main.dc2e240f.chunk.css.map",
+    "static/js/2.2094043e.chunk.js.LICENSE.txt": "/DNT-chat-app/static/js/2.2094043e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ac184c.js",
+    "static/js/2.2094043e.chunk.js",
+    "static/css/main.dc2e240f.chunk.css",
+    "static/js/main.3b7e3336.chunk.js"
+  ]
+}
